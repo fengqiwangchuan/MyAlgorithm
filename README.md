@@ -1,4 +1,4 @@
-#  leetcode_solution
+#  算法学习
 * **java实现**
 ##  [官网链接](https://leetcode.com/problemset/all/)
 ##  [中文链接](https://leetcode-cn.com/problemset/all/)
