@@ -1,4 +1,4 @@
-package _剑指offer._7斐波那契数列;
+package 剑指offer._7斐波那契数列;
 
 public class Solution {
     public int Fibonacci(int n) {

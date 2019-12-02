@@ -1,4 +1,4 @@
-package _剑指offer._22从上往下打印二叉树;
+package 剑指offer._22从上往下打印二叉树;
 
 import _剑指offer.util.TreeNode;
 

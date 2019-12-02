@@ -1,4 +1,4 @@
-package _剑指offer._16合并两个排序的链表;
+package 剑指offer._16合并两个排序的链表;
 
 import _剑指offer.util.ListNode;
 

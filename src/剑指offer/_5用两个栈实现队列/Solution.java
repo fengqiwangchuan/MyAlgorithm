@@ -1,4 +1,4 @@
-package _剑指offer._5用两个栈实现队列;
+package 剑指offer._5用两个栈实现队列;
 
 import java.util.Stack;
 

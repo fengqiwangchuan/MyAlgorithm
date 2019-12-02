@@ -1,4 +1,4 @@
-package _剑指offer.util;
+package 剑指offer.util;
 
 public class TreeNode {
     public int val = 0;

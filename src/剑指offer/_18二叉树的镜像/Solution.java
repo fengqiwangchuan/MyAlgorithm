@@ -1,4 +1,4 @@
-package _剑指offer._18二叉树的镜像;
+package 剑指offer._18二叉树的镜像;
 
 import _剑指offer.util.TreeNode;
 

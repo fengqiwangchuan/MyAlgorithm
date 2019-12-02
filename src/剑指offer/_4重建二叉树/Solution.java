@@ -1,4 +1,4 @@
-package _剑指offer._4重建二叉树;
+package 剑指offer._4重建二叉树;
 
 import _剑指offer.util.TreeNode;
 

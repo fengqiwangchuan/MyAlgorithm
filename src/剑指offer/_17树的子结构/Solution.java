@@ -1,4 +1,4 @@
-package _剑指offer._17树的子结构;
+package 剑指offer._17树的子结构;
 
 import _剑指offer.util.TreeNode;
 

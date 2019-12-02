@@ -1,4 +1,4 @@
-package _剑指offer._14链表中倒数第k个结点;
+package 剑指offer._14链表中倒数第k个结点;
 
 import _剑指offer.util.ListNode;
 

@@ -1,4 +1,4 @@
-package _剑指offer._12数值的整数次方;
+package 剑指offer._12数值的整数次方;
 
 /**
  * 给定一个double类型的浮点数base和int类型的整数exponent。

@@ -1,4 +1,4 @@
-package _剑指offer._6旋转数组的最小数字;
+package 剑指offer._6旋转数组的最小数字;
 
 import java.util.Arrays;
 
